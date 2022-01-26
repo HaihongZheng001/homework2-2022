@@ -18,7 +18,7 @@ h1 {
 
 h2 {
     font-size: 32px;
-    text-shadow: 4px 2px #808080;
+    text-shadow: 2px 4px #808080;
     
     
 }
@@ -92,12 +92,12 @@ div.intro {
 
 .yellow h2 {
     color: #000000;
-    text-shadow: 4px 2px #c7e2c7;
+    text-shadow: 2px 4px #c7e2c7;
 }
 
 
 .green{
-    background-color: #00eb00;
+    background-color: #008500;
     text-align: left;
     margin-right: 50px;
     border-right: 10px solid white;
@@ -123,9 +123,8 @@ footer{
 footer p{
     font-size: 20px;
     text-align: center;
-    padding-top: 10px;
-    padding-right: 10px;
-    padding-bottom: 10px;
+    padding-top: 10px 0px 10px;
+    
 
 }
 
